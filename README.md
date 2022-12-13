@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python/Django
-- 🌱 I’m currently learning Data Transformers
+- 🔭 I’m currently working on Python/Django/Postgres stack
+- 🔭 Curious about Merkle Tree and its variants 
+- 🌱 I’m currently learning how to build Data Transformers
 - 👯 I’m looking to collaborate on DataScience projects
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/renjith-madhavassery/)
