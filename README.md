@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web3 stack
+- 🔭 Writing Buffer accounts for a global distributed ledger 🏖️
 - 🔭 Curious about Merkle Tree and its variants 
 - 🌱 Building Data Transformers for 10+ years
 - 👯 I’m looking to collaborate on D.E projects
